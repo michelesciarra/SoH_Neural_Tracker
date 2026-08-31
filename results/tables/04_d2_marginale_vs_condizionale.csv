@@ -1,0 +1,10 @@
+variabile,guadagno_mediano,verdetto,correlazione_marginale,rango_marginale,rango_condizionale
+voltage_max_rel,0.02921345829963684,conseguenza o ridondante,-0.1265826069369131,9.0,1.0
+temperature_max_rise_rel,-0.0007087588310241699,conseguenza o ridondante,-0.6319404190489919,4.0,2.0
+voltage_mean_rel,-0.001983821392059326,conseguenza o ridondante,0.9284684212590476,1.0,3.0
+discharge_time_rel,-0.0022731125354766846,conseguenza o ridondante,0.8746175036879003,3.0,4.0
+temperature_std_rel,-0.015531927347183228,conseguenza o ridondante,-0.9178361572695451,2.0,5.0
+temperature_mean_rise_rel,-0.01961234211921692,conseguenza o ridondante,-0.5731748964963334,5.0,6.0
+voltage_std_rel,-0.0241277813911438,conseguenza o ridondante,-0.4804760801551109,6.0,7.0
+voltage_min_rel,-0.06344142556190491,conseguenza o ridondante,-0.1749457805940036,8.0,8.0
+num_measurements_rel,-0.1377841830253601,conseguenza o ridondante,-0.36021108644851,7.0,9.0

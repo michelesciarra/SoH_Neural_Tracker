@@ -1,0 +1,7 @@
+insieme,modello,primo_orizzonte_vincente,orizzonti_vincenti,orizzonti_provati
+validation,GRU,10.0,4,6
+validation,Baseline retta,10.0,4,6
+test_id,GRU,10.0,4,6
+test_id,Baseline retta,,0,6
+test_ood,GRU,20.0,1,4
+test_ood,Baseline retta,1.0,4,4

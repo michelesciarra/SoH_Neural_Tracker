@@ -1,0 +1,9 @@
+ambiente_c,n_blocchi,mediana,minimo,massimo,finestra
+4.0,2,56.36,42.93,69.79,completa
+22.0,2,27.13,21.72,32.54,completa
+24.0,4,21.2,17.38,25.26,completa
+43.0,4,27.98,17.56,28.61,completa
+4.0,2,56.36,42.93,69.79,comune (25 cicli)
+22.0,2,26.56,19.84,33.29,comune (25 cicli)
+24.0,4,14.77,3.82,32.31,comune (25 cicli)
+43.0,4,24.68,12.67,26.34,comune (25 cicli)

@@ -1,0 +1,10 @@
+variabile,guadagno_mediano,p,verdetto,differenza,verso,effetto_medio,intervallo_esclude_zero,aumento_medio,conclusione
+voltage_max_rel,0.02921345829963684,0.15625,conseguenza o ridondante,0.0072182134372951595,precede il degrado,-0.0016754420990400555,False,0.0004964695777744055,informazione già nello stato
+temperature_max_rise_rel,-0.0007087588310241699,1.0,conseguenza o ridondante,-0.0008578704927452163,segue il degrado,-0.0018618056791778062,False,0.0004617770668119192,conseguenza del degrado
+voltage_mean_rel,-0.001983821392059326,0.84375,conseguenza o ridondante,-0.01745281986956876,segue il degrado,-0.0010462251345353245,False,-0.0004451239947229624,conseguenza del degrado
+discharge_time_rel,-0.0022731125354766846,0.84375,conseguenza o ridondante,-0.16830699781390118,segue il degrado,0.0037234099633724643,True,-0.0006740486714988947,conseguenza del degrado
+temperature_std_rel,-0.015531927347183228,0.6875,conseguenza o ridondante,-0.05440988343660723,segue il degrado,-0.0017835491816471612,False,0.015027249604463578,conseguenza del degrado
+temperature_mean_rise_rel,-0.01961234211921692,0.5625,conseguenza o ridondante,0.001736721132927832,precede il degrado,-0.0015286636368099296,False,0.0001338398549705744,informazione già nello stato
+voltage_std_rel,-0.0241277813911438,0.4375,conseguenza o ridondante,-0.005095998617936456,segue il degrado,-0.001346699515346048,False,0.0002913449425250292,conseguenza del degrado
+voltage_min_rel,-0.06344142556190491,0.5625,conseguenza o ridondante,-0.029959694320176256,segue il degrado,0.000984742465087178,False,0.00032767737284302714,conseguenza del degrado
+num_measurements_rel,-0.1377841830253601,0.21875,conseguenza o ridondante,-0.17398605597767508,segue il degrado,0.002672091552594482,True,-0.0005036558955907822,conseguenza del degrado

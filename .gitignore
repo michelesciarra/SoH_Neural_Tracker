@@ -1,0 +1,8 @@
+data/original/*
+!data/original/.gitkeep
+*.mp4
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db

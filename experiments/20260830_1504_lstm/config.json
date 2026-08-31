@@ -1,0 +1,28 @@
+{
+  "modello": "LSTM",
+  "dataset": "sequence_dataset_window10.npz",
+  "variabili": [
+    "voltage_mean_rel",
+    "voltage_min_rel",
+    "voltage_max_rel",
+    "voltage_std_rel",
+    "temperature_mean_rise_rel",
+    "temperature_max_rise_rel",
+    "temperature_std_rel",
+    "discharge_time_rel",
+    "num_measurements_rel",
+    "soh_feature"
+  ],
+  "window_size": 10,
+  "unita": 64,
+  "unita_densa": 32,
+  "dropout": 0.2,
+  "learning_rate": 0.001,
+  "batch_size": 32,
+  "epoche_max": 150,
+  "pazienza": 20,
+  "grandezza_prevista": "variazione del SoH rispetto all'ultimo ciclo osservato",
+  "n_ripetizioni": 10,
+  "miglior_perdita_validazione": 7.634257053723559e-05,
+  "data_esecuzione": "20260830_1504"
+}

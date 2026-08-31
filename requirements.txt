@@ -1,0 +1,13 @@
+# Ambiente di esecuzione del progetto SoH Neural Tracker.
+# Le versioni indicate sono quelle con cui i notebook sono stati eseguiti.
+# Su Google Colab la maggior parte di questi pacchetti e' gia' presente e
+# non e' necessario installare nulla.
+#
+#   pip install -r requirements.txt
+
+numpy==1.26.4
+pandas==2.2.2
+scipy==1.13.1
+scikit-learn==1.5.2
+matplotlib==3.9.2
+tensorflow==2.17.0
